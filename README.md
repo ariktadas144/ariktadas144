@@ -14,7 +14,7 @@ Building at the intersection of full stack development, AI/ML, and agentic syste
 <p align="center">
 I am a Full Stack Developer with a strong focus on backend systems and modern web development.<br>
 I enjoy building APIs, integrating third-party services, and developing applications that are clean, efficient, and practical.<br>
-Alongside full stack development, I am exploring Machine Learning, Generative AI, and agentic systems by building and experimenting.<br>
+Alongside full stack development, I am exploring and working on Machine Learning, Generative AI, and agentic systems.<br>
 My goal is to get better at building scalable systems and understanding how software behaves beyond just writing code.
 </p>
 
